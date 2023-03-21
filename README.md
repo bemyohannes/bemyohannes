@@ -1,6 +1,6 @@
 <h1>Hey there! I'm Bemnet,
 
-An <a href="https://www.linkedin.com/in/bemnet-y-978611243/">IT Professional</a></h1>
+an <a href="https://www.linkedin.com/in/bemnet-y-978611243/">IT Professional</a></h1>
 
 <h2> 👨‍💻 Information Technology Projects:</h2>
 
